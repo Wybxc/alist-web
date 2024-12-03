@@ -7,7 +7,7 @@
     "url": "https://www.nn.ci"
   },
   "description": "The front end of Alist V3",
-  "packageManager": "pnpm@9.9.0",
+  "packageManager": "pnpm@9.14.4+sha512.c8180b3fbe4e4bca02c94234717896b5529740a6cbadf19fa78254270403ea2f27d4e1d46a08a0f56c89b63dc8ebfd3ee53326da720273794e6200fcf0d184ab",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alist-org/alist-web.git"
@@ -67,6 +67,7 @@
     "artplayer-plugin-danmuku": "^5.0.1",
     "asciinema-player": "^3.6.3",
     "axios": "^1.0.0",
+    "chardet": "^2.0.0",
     "clsx": "^2.0.0",
     "copy-to-clipboard": "^3.3.2",
     "crypto-js": "^4.2.0",
